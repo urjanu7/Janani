@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Using Image in Webpage</title>
+<img src="https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202001/tdy_news_melvin_kobe_200127_1920x1080.focal-760x428.jpg" alt="sk" id="img"> 
+<a href="https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202001/tdy_news_melvin_kobe_200127_1920x1080.focal-760x428.jpg">img</a>
+</html>
+
