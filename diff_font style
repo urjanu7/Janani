@@ -1,0 +1,12 @@
+<html>
+<style>
+p.first{font-weight:bolder;font-size:20px}
+p.second{font-size:small;font-size:10px}
+p.third{font-family:'times new roman';font-size:20px}
+p.fourth{font-style:italic}
+</style>
+<p class="first">if a job is worth </p>
+<p class="second">hello welcome to pu </p>
+<p class="third">rajankunte banglore</p>
+<p class="fourth">karnataka</p>
+</html>
